@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tvTitle"></style>
+
+    <style name="tvET"></style>
+
+    <style name="tvDesc">tvDesc</style>
+
+    <style name="tvAcc">tvAcc</style>
+</resources>
